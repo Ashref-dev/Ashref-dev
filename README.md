@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashref Ben Abdallah</h1>
-<h3 align="center">Visit my site: www.ashref.tn 👋 I'm a developer with a zeal for innovation, eager to continue exploring the inspiring field of Game Development & expand my experience in Web Development.</h3>
+<h3 align="left"> Visit my site: www.ashref.tn 👋</h3>
+<h3 align="left"> I'm a developer with a zeal for innovation, eager to continue exploring the inspiring field of Game Development & expand my experience in Web Development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=black-spear" alt="black-spear" /></a> </p>
 
 - 🔭 I’m currently working on **Creative websites**
 
@@ -9,15 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Saas projects**
 
-- 👨‍💻 All of my projects are available at [www.ashref.tn](www.ashref.tn)
-
-- 📝 I regularly write articles on [www.ashref.tn](www.ashref.tn)
+- 📝 I regularly post useful stuff on instagram & [ashref.tn](https://ashref.tn)
 
 - 💬 Ask me about **GSAP, design or even guitar**
 
 - 📫 How to reach me **M.AshrefBna@gmail.com**
 
-- 📄 Know about my experiences [Linkedin](Linkedin.com/in/mohamedAshrefBna)
+- 📄 Know about my experiences [Linkedin](https://Linkedin.com/in/mohamedAshrefBna)
 
 - ⚡ Fun fact **I love Spanish xD**
 
