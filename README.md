@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ashref Ben Abdallah</h1>
 
-Visit my site: www.ashref.tn 👋<br><br>I'm a developer with a zeal for innovation, eager to continue exploring the inspiring field of Game Development & expand my experience in Web Development.<br><br>🔭 I’m currently working on .NET development<br><br>🌱 I’m currently learning Mixed Reality Digital Twins & DevOps<br><br>👯 I’m looking to collaborate on cool projects <br><br>📝 I regularly post useful stuff on instagram & ashref.tn<br><br>💬 Ask me about Azure Cloud, .NET or even guitar<br><br>📫 How to reach me: ashref.tn<br><br>📄 Know about my experiences: Linkedin<br><br>⚡ Fun fact I love Spanish & Video Games
+Visit my site: www.ashref.tn 👋<br><br>
+I'm a developer with a zeal for innovation, eager to continue exploring the inspiring field of Game Development & expand my experience in Web Development.<br><br>
+🔭 I’m currently working on .NET development<br><br>
+🌱 I’m currently learning Mixed Reality Digital Twins & DevOps<br><br>
+👯 I’m looking to collaborate on cool projects <br><br>
+📝 I regularly post useful stuff on instagram & ashref.tn<br><br>
+💬 Ask me about Azure Cloud, .NET or even guitar<br><br>
+📫 How to reach me: [ashref.tn](https://ashref.tn)<br><br>
+📄 Know about my experiences: [Linkedin](https://linkedin.com/in/mohamedashrefbna)<br><br>
+⚡ Fun fact I love Spanish & Video Games
 
 
 ## 🌐 Socials:
