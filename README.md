@@ -51,12 +51,6 @@ I also love design, game development, and exploring new tech.
 
 ---
 
-### 📊 GitHub Stats
-
-[![Ashref-dev's GitHub | Stats](https://stats.quine.sh/Ashref-dev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashref-dev)
-
----
-
 ### ✨ Quote of the Day  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
