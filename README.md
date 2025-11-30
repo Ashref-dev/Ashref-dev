@@ -68,4 +68,4 @@ I also love design, game development, and exploring new tech.
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Ashref-dev&icon=8&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Ashref-dev&color=blue&style=flat)
